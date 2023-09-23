@@ -1,2 +1,1 @@
-# site
-site
+unzip all zip files (importandly)
